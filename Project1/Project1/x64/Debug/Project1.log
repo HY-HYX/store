@@ -1,0 +1,6 @@
+﻿  main.cpp
+H:\VS项目\Project1\Project1\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+H:\VS项目\Project1\Project1\main.cpp(78,21): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+H:\VS项目\Project1\Project1\main.cpp(82,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+H:\VS项目\Project1\Project1\main.cpp(123,11): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  Project1.vcxproj -> H:\VS项目\Project1\x64\Debug\Project1.exe
